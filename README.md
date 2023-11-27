@@ -1,4 +1,4 @@
-### Hi there, I'm Timothy Paek 👋 
+### Hi there, I'm <style color: blue;>Timothy Paek</style> 👋 
 
 - 🔭 I’m currently working on java source code anomaly detection.
 - 🌱 I’m currently learning machine learning and web development.
