@@ -14,7 +14,7 @@ Right now, I'm doing machine learning research and making websites to develop my
 - 🌱 I’m currently practicing Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym)
 - 📫 How to reach me: tipaek@syr.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Outside of coding, I like to do play instruments and do gymnastics!
+- ⚡ Fun fact: Outside of coding, I like to play chess and do gymnastics!
 
 <br><br>
 **📈 My Github stats:** 
