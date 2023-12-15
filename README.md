@@ -16,11 +16,13 @@ Right now, I'm doing machine learning research and making websites to develop my
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Outside of coding, I like to play chess and do gymnastics!
 
-<br><br>
+<br><be>
+<!-- 
 **📈 My Github stats:** 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tipaek&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tipaek&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+--!>
 
 
